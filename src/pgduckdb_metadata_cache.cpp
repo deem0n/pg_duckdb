@@ -152,6 +152,7 @@ BuildDuckdbOnlyFunctions() {
 	                                "iceberg_snapshots",
 	                                "delta_scan",
 	                                "read_json",
+	                                "read_arrow",
 	                                "approx_count_distinct",
 	                                "query",
 	                                "view",
